@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a Smart gardening app
+- 🌱 I’m currently learning IOT
 - 👯 I’m looking to collaborate on ...
 
 <!--
