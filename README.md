@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a Smart gardening app
 - 🌱 I’m currently learning IOT
+- 🤔 I’m looking for help with api that works with image recognition
 <!--
 **Dukent29/dukent29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
