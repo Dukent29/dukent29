@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning IOT
 - 🤔 I’m looking for help with api that works with image recognition
 ## what's done?
-- User Authentification
+- User Authentification(with reset password working)
 - 
 - 
 <!--
