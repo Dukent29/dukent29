@@ -7,6 +7,7 @@
 - User Authentification(with reset password working)
 - Crud plant + sensor and action on plant
 -  worked today on api that can help for plant identification (Plant Id)
+-  now the actions can be automatically truggered by the situation of plant by sensors
 <!--
 **Dukent29/dukent29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
